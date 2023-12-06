@@ -7,8 +7,9 @@ The Source Code includes the following files:
 1. Image Steganalysis - includes the implementation for all the data extraction, and transformation + the training and evaluation.
 2. The EDA Analysis for the images.
 
-Because of GPU requirements, all of the Python notebooks in the source code were run on Google Colab. 
+Because of GPU requirements, all of the Python notebooks in the source code were run on **Kaggle**, so kindly update the data paths for running. 
 
+Dataset used : [Kaggle] https://www.kaggle.com/competitions/alaska2-image-steganalysis/data
 Collaborators
 
 1. **Raj Shah**: Responsible for the EDA and tuning the hyperparameters for efficientNet as well as InceptionResNet.
