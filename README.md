@@ -9,7 +9,7 @@ The Source Code includes the following files:
 
 Because of GPU requirements, all of the Python notebooks in the source code were run on **Kaggle**, so kindly update the data paths for running. 
 
-Dataset used : [Kaggle] (https://www.kaggle.com/competitions/alaska2-image-steganalysis/data)
+Dataset used : [Kaggle](https://www.kaggle.com/competitions/alaska2-image-steganalysis/data)
 
 Collaborators
 
