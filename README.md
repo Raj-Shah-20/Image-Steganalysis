@@ -11,6 +11,6 @@ Because of GPU requirements, all of the Python notebooks in the source code were
 
 Collaborators
 
-1. Raj Shah: Responsible for the EDA and tuning the hyperparameters for efficientNet as well as InceptionResNet.
-2. Rutvik Savaliya: Responsible for the data extraction, augmentation, and transformation of the SRNet model.
-3. Aditya Sharma: Responsible for the hyperparameter tuning for the model: MobileNet along with documentation.
+1. **Raj Shah**: Responsible for the EDA and tuning the hyperparameters for efficientNet as well as InceptionResNet.
+2. **Rutvik Savaliya**: Responsible for the data extraction, augmentation, and transformation of the SRNet model.
+3. **Aditya Sharma**: Responsible for the hyperparameter tuning for the model: MobileNet along with documentation.
